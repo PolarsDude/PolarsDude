@@ -4,7 +4,7 @@
 - Data Scientist / Programmer
 - Huge fan of the python package Polars
 - Love sports, especially football and padel :soccer: :tennis:
-- 
+- I enjoy hiking :sunrise_over_mountains:
 
 
 <!---
