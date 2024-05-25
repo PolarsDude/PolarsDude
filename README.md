@@ -1,7 +1,9 @@
  # Hi, I’m Yafee Ishraq 👋
 
   ## About me
-- Data Scientist/Programmer
+- Data Scientist / Programmer
+- Huge fan of the python package Polars
+- Love sports, especially football and padel :soccer: :tennis:
 - 
 
 
