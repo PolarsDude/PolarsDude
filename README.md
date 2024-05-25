@@ -1,4 +1,4 @@
- #👋 Hi, I’m Yafee Ishraq
+ # Hi, I’m Yafee Ishraq 👋
 
   ## About me
 - Data Scientist/Programmer
